@@ -1,0 +1,10 @@
+## Interface: 50504
+## Title: 头像优化
+## Notes: 
+## Author: 
+## Version: 0.1.0
+## SavedVariables: customCharDB
+## OptionalDeps: WoWBridge
+## X-Made-With: 无限工坊
+
+customChar.lua

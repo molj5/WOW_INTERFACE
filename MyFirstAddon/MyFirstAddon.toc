@@ -1,0 +1,10 @@
+## Interface: 50504
+## Title: 我的第一个插件
+## Notes: 
+## Author: 
+## Version: 0.1.0
+## SavedVariables: MyFirstAddonDB
+## OptionalDeps: WoWBridge
+## X-Made-With: 无限工坊
+
+MyFirstAddon.lua

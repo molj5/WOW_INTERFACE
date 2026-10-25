@@ -1,0 +1,10 @@
+## Interface: 50504
+## Title: 消耗品快捷工具
+## Notes: 
+## Author: 
+## Version: 0.1.0
+## SavedVariables: xiaohaopingDB
+## OptionalDeps: WoWBridge
+## X-Made-With: 无限工坊
+
+xiaohaoping.lua

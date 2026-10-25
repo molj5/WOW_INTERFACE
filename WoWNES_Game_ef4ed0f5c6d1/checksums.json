@@ -1,0 +1,17 @@
+{
+  "chr-map.json": "e4aa1489e6cd3270681c500dd7e419147f27fe42a1195b229dd2db5b844283d8",
+  "chr-map.lua": "9cda573e4d756a93ad81cfba15e725a9fa787548f06aa017d204bf353eeac27b",
+  "conversion-report.json": "397c57c6e6be968c08a8ce0d5c3f8c09c9b0ec761df2a4462e79b6d3e36f2e8a",
+  "fallback-ir-0.lua": "7076ab46fa3dd58d15b286c0c37542f8b4af2dd563457661104801c5836f08e0",
+  "manifest.lua": "83a9eb814a9a9d87823edc6b4a15c14248c9f68e21e67406e6566c6cc4f3cbb0",
+  "prg-data-0.lua": "8a50af3f201f03823cd641377cd17f0c27e74b29efe3ea370f3b03db7fd96d6a",
+  "prg-data-1.lua": "d03ddfc2cacbd778110be3fef2369cc4b42049459c426ce3e8bbd15986e9a5cf",
+  "prg-data-2.lua": "d03ddfc2cacbd778110be3fef2369cc4b42049459c426ce3e8bbd15986e9a5cf",
+  "prg-data-3.lua": "f7d681c0d8949a3b93fa60ea738a4f6b056d2d073f8cd8df93dd8bb591ee5e61",
+  "register.lua": "28f3527c630b8a0961e46d330cf456aa8c5f51d9c85cc6b9928cdcb4b904b372",
+  "textures/chr-mask-1.tga": "6254f2d8ab2d5c655fd9144e9b81b9d53cf90e6af95b1b89d02072e02eb82817",
+  "textures/chr-mask-2.tga": "6254f2d8ab2d5c655fd9144e9b81b9d53cf90e6af95b1b89d02072e02eb82817",
+  "textures/chr-mask-3.tga": "6254f2d8ab2d5c655fd9144e9b81b9d53cf90e6af95b1b89d02072e02eb82817",
+  "translated-blocks-0.lua": "60ee3b63d9d328f2b636856431827c482ccf6027599d9a6c1aa9965e7f17f7ef",
+  "WoWNES_Game_ef4ed0f5c6d1.toc": "8779718380704a99b786f8784c00fe5482c3a96a251ff7976369a183af01455f"
+}

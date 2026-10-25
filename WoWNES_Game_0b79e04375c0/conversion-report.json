@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "converter_version": "0.1.0",
+  "compatible": true,
+  "reason_codes": [],
+  "sha256": "0b79e04375c00b4e65c0dd8e3bc610b02f31eaf45966ebc4441f2688161840f5",
+  "rom_id": "0b79e04375c0",
+  "format": "iNES",
+  "mapper": 23,
+  "submapper": 0,
+  "mirroring": "horizontal",
+  "region": "NTSC",
+  "prg_bytes": 131072,
+  "chr_bytes": 131072,
+  "trainer_bytes": 0,
+  "prg_ram_bytes": 8192,
+  "vectors": {
+    "nmi": 63625,
+    "reset": 63501,
+    "irq": 63713
+  },
+  "audio_output": "none",
+  "translation": {
+    "static_blocks": 866,
+    "ir_instructions": 0,
+    "analyzed_bytes": 840,
+    "fallback_prg_bytes": 131072,
+    "stops": [
+      {
+        "pc": 0,
+        "reason": "OUTSIDE_ROM"
+      },
+      {
+        "pc": 50952,
+        "reason": "INDIRECT_JUMP"
+      },
+      {
+        "pc": 49171,
+        "reason": "UNOFFICIAL_OPCODE"
+      },
+      {
+        "pc": 0,
+        "reason": "OUTSIDE_ROM"
+      },
+      {
+        "pc": 37281,
+        "reason": "UNOFFICIAL_OPCODE"
+      }
+    ],
+    "ambiguous_addresses": [],
+    "block_key": "mapper23_physical_prg_offset",
+    "physical_bank_key_pending": false
+  },
+  "atlas": {
+    "tiles": 8192,
+    "unique_tiles": 5200,
+    "width": 1024,
+    "height": 1024,
+    "layers": 3,
+    "gutter": 1
+  },
+  "output_directories": [
+    "WoWNES_Runtime",
+    "WoWNES_Game_0b79e04375c0"
+  ],
+  "warnings": [
+    "Prototype: not a general ROM compatibility claim; WoW performance gates unverified.",
+    "Audio output disabled; PPU/APU timing is approximate; 8x16 sprites unsupported.",
+    "Generated content may remain subject to original ROM copyright."
+  ]
+}

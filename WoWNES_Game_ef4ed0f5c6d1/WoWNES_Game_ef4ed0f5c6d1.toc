@@ -1,0 +1,13 @@
+## Interface: 50504
+## Title: WOW_NES Game
+## Dependencies: WoWNES_Runtime
+## Version: 0.1.0
+manifest.lua
+prg-data-0.lua
+prg-data-1.lua
+prg-data-2.lua
+prg-data-3.lua
+fallback-ir-0.lua
+translated-blocks-0.lua
+chr-map.lua
+register.lua
